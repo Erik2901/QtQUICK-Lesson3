@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>anna_karenina.png</file>
+        <file>madame_bovary.png</file>
+        <file>war_and_peace.png</file>
+        <file>great_gatsby.png</file>
+        <file>lolita.png</file>
+        <file>hamlet.png</file>
+        <file>prideandprejudice.png</file>
+        <file>middlemarch.png</file>
+        <file>jane_eyre.png</file>
+        <file>macbeth.png</file>
+    </qresource>
+</RCC>
